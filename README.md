@@ -1,4 +1,4 @@
-# flutter_state_management
+# Flutter State Management
 
 A new Flutter project.
 
